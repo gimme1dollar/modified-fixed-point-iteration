@@ -16,3 +16,4 @@ While original algorithm diverges, modified algorithm converges to the exact roo
 Further research on the case where g'(x) < -1 is necessary, while showing better performance than the original with respect to error.
 
 ## Contributor
+이주용 장재훈
